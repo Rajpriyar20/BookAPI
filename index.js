@@ -150,7 +150,7 @@ OurApp.get("/publications/p/:books", (req, res) => {
   access  - public
   method  - POST
   params  - new
-  body    - none
+  body    - None
 */
 
 OurApp.listen(5000, () => { console.log("server is running!") });
