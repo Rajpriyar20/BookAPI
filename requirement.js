@@ -30,15 +30,15 @@ Book
    -to get a list of books based on Author
 
 -POST
-   -to add a new book
+   -to add a new book(**done**)
 
 -PUT
-   -to to update book details
-   -to update/add new author
+   -to update book details(**done**)
+   -to update/add new author(**done**)
 
 -DELETE
-   -to delete a book
-   -to delete an author from a book
+   -to delete a book(**done**)
+   -to delete an author from a book(**done**)
 
 
 
@@ -49,13 +49,14 @@ Author
     -to get list of author based on a books (**done**)
 
   -POST
-    -to add new author
+    -to add new author(**done**)
+    -to add/update author
 
   -PUT
-    -to update author details
+    -to update author details(**done**)
 
   -DELETE
-    -to delete an author
+    -to delete an author(**done**)
 
 
 
@@ -67,14 +68,14 @@ Publications
      -to get a list of publication based on a book(**done**)
      
    -POST
-     -to add new publication
+     -to add new publication(**done**)
 
    -PUT
      -to update publication
 
    -DELETE
-    -to delete a book from publication
-    -to delete a publication
+    -to delete a book from publication(**done**)
+    -to delete a publication(**done**)
 
 
 */
