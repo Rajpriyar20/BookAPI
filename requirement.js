@@ -27,7 +27,7 @@ Book
    -to get all books (**done**)
    -to get a specific book (**done**)
    -to get a list of books based on category (**done**)
-   -to get a list of books based on Author
+   -to get a list of books based on Author(**done**)
 
 -POST
    -to add a new book(**done**)
@@ -50,7 +50,6 @@ Author
 
   -POST
     -to add new author(**done**)
-    -to add/update author
 
   -PUT
     -to update author details(**done**)
@@ -71,7 +70,7 @@ Publications
      -to add new publication(**done**)
 
    -PUT
-     -to update publication
+     -to update publication(**done**)
 
    -DELETE
     -to delete a book from publication(**done**)
